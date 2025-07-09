@@ -1,5 +1,5 @@
 {
-    "name": "sucitivel/nova-inline-relationship"
+    "name": "sucitivel/nova-inline-relationship",
     "description": "A Laravel Nova field for displaying relationship properties inline.",
     "keywords": [
         "laravel",
